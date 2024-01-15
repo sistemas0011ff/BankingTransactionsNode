@@ -111,7 +111,7 @@ Para clonar el repositorio y ejecutar el proyecto, sigue estos pasos:
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/yaperos/app-nodejs-codechallenge.git
+git clone https://github.com/sistemas0011ff/RetoTecnicoYape.git
 
 # Cambiar al directorio del proyecto
 cd carpeta_del_proycto
@@ -327,16 +327,9 @@ Detalles sobre cómo trabajar en el proyecto, incluyendo:
 - [Prisma](https://www.prisma.io/): Empleado como ORM para facilitar las interacciones con la base de datos de manera segura y declarativa.
 - [Kafka](https://kafka.apache.org/): Clave para la implementación de Event Sourcing y para manejar la mensajería asíncrona entre servicios, asegurando un flujo de datos eficiente y confiable.
 
-## Contribución
-Por favor, lee `CONTRIBUTING.md` para obtener detalles sobre nuestro código de conducta y el proceso para enviarnos pull requests.
-
-
-
 ## Autor
 
 - **Arturo Eduardo Fajardo Gutiérrez** - *Reto Técnico* - [sistemas0011ff
 ](https://github.com/yaperos/app-nodejs-codechallenge)
-
-Ver también la lista de [contribuyentes](https://github.com/tu_usuario/tu_proyecto/contributors) que participaron en este proyecto.
 
 
