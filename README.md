@@ -123,7 +123,7 @@ docker-compose up --build
 ### Endpoint de GraphQL
 
 Para interactuar con la API GraphQL, utiliza la siguiente URL en tu entorno de desarrollo local:
-[http://localhost:8080/graphql](http://localhost:8080/graphql)
+[https://localhost:8080/graphql](http://localhost:8080/graphql)
 Este endpoint es el punto de entrada para todas las consultas y mutaciones GraphQL definidas en el sistema.
 
 ### Documentación de la API de Procesamiento de Transacciones Financieras
