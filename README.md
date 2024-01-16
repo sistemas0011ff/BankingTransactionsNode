@@ -314,14 +314,6 @@ query Query($getByIdId: Float!) {
   }
 }
 ```
-### Desarrollo
-
-Detalles sobre cómo trabajar en el proyecto, incluyendo:
-- Estructura del directorio.
-- Cómo ejecutar las pruebas.
-- Normas de estilo de código.
-- Proceso para enviar pull requests.
-
 ### Construido con
 **Tecnologías**:  
 - [Node.js](https://nodejs.org/): Un entorno de ejecución para JavaScript en el lado del servidor, clave para desarrollar aplicaciones web escalables. Se utiliza para construir la lógica del servidor, manejar solicitudes y respuestas HTTP, y se integra bien con GraphQL, Prisma y Kafka.
