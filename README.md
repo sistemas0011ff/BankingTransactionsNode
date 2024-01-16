@@ -119,6 +119,13 @@ cd carpeta_del_proycto
 # Construir y ejecutar los servicios con Docker Compose
 docker-compose up --build
 ```
+
+### Endpoint de GraphQL
+
+Para interactuar con la API GraphQL, utiliza la siguiente URL en tu entorno de desarrollo local:
+[http://localhost:8080/graphql](http://localhost:8080/graphql)
+Este endpoint es el punto de entrada para todas las consultas y mutaciones GraphQL definidas en el sistema.
+
 ### Documentación de la API de Procesamiento de Transacciones Financieras
 
 Esta documentación describe los puntos de entrada y las estructuras de datos utilizadas en la API GraphQL para el sistema de procesamiento de transacciones financieras.
@@ -314,14 +321,6 @@ Detalles sobre cómo trabajar en el proyecto, incluyendo:
 - Cómo ejecutar las pruebas.
 - Normas de estilo de código.
 - Proceso para enviar pull requests.
-
-### Endpoint de GraphQL
-
-Para interactuar con la API GraphQL, utiliza la siguiente URL en tu entorno de desarrollo local:
-[http://localhost:8080/graphql](http://localhost:8080/graphql)
-
-Este endpoint es el punto de entrada para todas las consultas y mutaciones GraphQL definidas en el sistema.
-
 
 ### Construido con
 **Tecnologías**:  
